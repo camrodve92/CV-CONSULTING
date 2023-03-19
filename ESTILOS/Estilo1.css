@@ -54,3 +54,8 @@ img{
 .seccion1{
     background-color: rgb(255, 255, 255);
 }
+
+.video{
+    width: 55%;
+    padding: 10px;
+}
